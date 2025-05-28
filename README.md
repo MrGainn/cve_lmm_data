@@ -15,11 +15,22 @@ This repository contains data files and results related to the classification of
 
 ---
 
+
+- **`data/original_dataset.jsonl`**  
+  This is the **original dataset** prior to any filtering or corrections. It contains **3,458 CVE entries**, including both IoT-related and non-IoT-related vulnerabilities, before any AI classification or manual review.
+
+- **`data/final_balanced_dataset.jsonl`**  
+  This file contains the **final version of the dataset** after AI-based classification and manual review. All mislabeled entries were removed or corrected, resulting in **3,374 CVEs** evenly split between IoT and non-IoT (50/50), supporting fair and unbiased evaluation of classification models.
+
+
+
+
 ## Summary
 
-- The AI classification step generates a preliminary list of potentially misclassified CVEs.
-- A subset of these, where multiple AI models agree on misclassification, is passed for human manual review.
-- The manual review results in a final, trusted dataset of truly mislabelled CVEs for further use in model training or analysis.
+- AI models were used to identify potentially misclassified CVEs.
+- CVEs flagged by multiple models were manually reviewed for accuracy.
+- The result is a final, verified dataset of truly mislabelled CVEs for reliable analysis and training.
+
 
 ---
 
