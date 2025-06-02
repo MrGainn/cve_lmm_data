@@ -20,7 +20,7 @@ This repository contains data files and results related to the classification of
   This is the **original dataset** prior to any filtering or corrections. It contains **3,458 CVE entries**, including both IoT-related and non-IoT-related vulnerabilities, before any AI classification or manual review.
 
 - **`data/final_balanced_dataset.jsonl`**  
-  This file contains the **final version of the dataset** after AI-based classification and manual review. All mislabeled entries were removed or corrected, resulting in **3,374 CVEs** evenly split between IoT and non-IoT (50/50), supporting fair and unbiased evaluation of classification models.
+  This file contains the **final version of the dataset** after AI-based classification and manual review. All mislabeled entries were removed or corrected, resulting in **3,440 CVEs** evenly split between IoT and non-IoT (50/50), supporting fair and unbiased evaluation of classification models.
 
 
 
