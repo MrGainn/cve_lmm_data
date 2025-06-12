@@ -6,12 +6,9 @@ import re
 from llm_analysis.ollama_test import classify_iot_cve_with_llm_locally
 
 
-# Get the absolute path of the directory containing the current script
 SCRIPT_DIR = Path(__file__).parent
 
-# Construct the path to the ground truth file relative to the script's directory
-# Assuming random_sampled_dataset2.jsonl is in 'pythonProject/analysis/'
-# and the script is in 'pythonProject/llm_analysis/'
+
 GROUND_TRUTH_FILE = SCRIPT_DIR.parent / "analysis" / "random_sampled_dataset2.jsonl"
 OUTPUT_BASE_DIR = SCRIPT_DIR.parent / "analysis" / "model_evaluations"
 
@@ -82,7 +79,7 @@ def evaluate_model(model_name: str):
             tags = cve.get("tags")
             true_label = cve["label"]
 
-            # --- Field Presence Logic ---
+
             if description and description.strip().lower() not in ["n/a", "missing", ""]:
                 field_presence_counts["description"] += 1
             if date_published and date_published.strip().lower() not in ["n/a", "missing", ""]:
@@ -160,8 +157,6 @@ def evaluate_model(model_name: str):
                 misclassified_f.write(json.dumps(summary_entry) + "\n") # Write immediately
                 print(f"❌ Wrong: predicted {predicted_label}, actual {true_label}. Sig. Field: {significant_field}")
 
-            # Update Confusion Matrix components (TP, FP, FN, TN)
-            # This is done AFTER determining predicted_label for all cases
             if predicted_label == 1 and true_label == 1:
                 true_positives += 1
             elif predicted_label == 1 and true_label == 0:
@@ -171,7 +166,6 @@ def evaluate_model(model_name: str):
             elif predicted_label == 0 and true_label == 0:
                 true_negatives += 1
 
-            # Count the significant field from the LLM's response or our assigned error
             most_significant_field_counts[significant_field] += 1
 
             current_total_processed = total_correct + total_misclassified
@@ -230,5 +224,5 @@ def evaluate_model(model_name: str):
 
 
 if __name__ == "__main__":
-    ollama_model_id = "llama3.1" # You can change this back to "mistral" or any other model name
+    ollama_model_id = "llama3.1" 
     evaluate_model(ollama_model_id)

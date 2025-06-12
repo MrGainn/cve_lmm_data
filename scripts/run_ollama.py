@@ -50,7 +50,6 @@ def classify_iot_cve_with_llm_locally(
             VALID_SIGNIFICANT_FIELDS) + '.'
     ]
 
-    user_prompt_parts.append(f'CVE ID: {cve_id if cve_id else "N/A"}')
     user_prompt_parts.append(f'Description: {description if description else "N/A"}')
     user_prompt_parts.append(f'Date Published: {date_published if date_published else "N/A"}')
 
