@@ -38,8 +38,13 @@ This repository contains data files and results related to the classification of
 - **`scripts/evaluate_iot_classifier.py`**  
 Calls the run_ollama.py funtion and loads the data fromt the dataset file and saves the llm repsonse in a new jsonl file.
 
-  
-  
+ - **`scripts/train_fineTuned_classifier.py`**  
+The script to train the traditional/finetuned classifiers. Just comment out the model you want to use and provide the dataset.
+ 
+---
+
+ - **`results/*`**  
+The results of all the LLM's and traditional classifiers that classified the **916 CVEs** . It's split up in correctly classified and misclassified and for the LLM's you can also see the most important field (description, affected items, product date, tags) in their decision 
 
 ## Summary
 
