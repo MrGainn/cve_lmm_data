@@ -42,10 +42,14 @@ Calls the run_ollama.py funtion and loads the data fromt the dataset file and sa
 The script to train the traditional/finetuned classifiers. Just comment out the model you want to use and provide the dataset.
  
 ---
+ - **`results/RQ1/*`**  
+The results of all the LLM's that classified the **3458 CVEs** . It's split up in correctly classified and misclassified.
 
- - **`results/*`**  
+ - **`results/RQ2/*`**  
 The results of all the LLM's and traditional classifiers that classified the **916 CVEs** . It's split up in correctly classified and misclassified and for the LLM's you can also see the most important field (description, affected items, product date, tags) in their decision 
 
+ - **`results/RQ3/*`**  
+The results of all the LLM's that classified the **812 CVEs** (all cves that had the decription and affected_items both present). Again, It's split up in correctly classified and misclassified. 
 ## Summary
 
 - AI models were used to identify potentially misclassified CVEs.
