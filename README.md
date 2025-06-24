@@ -18,14 +18,14 @@ This repository contains data files and results related to the classification of
 ---
 
 
-- **`data/original_dataset.jsonl`**  
-  This is the **original dataset** prior to any filtering or corrections. It contains **3,458 CVE entries**, including both IoT-related and non-IoT-related vulnerabilities, before any AI classification or manual review.
+- **`data/cve_dataset_origional.jsonl`**  
+  This is the **original dataset** prior to any filtering or corrections. It contains **3,478 CVE entries**, including both IoT-related and non-IoT-related vulnerabilities, before any AI classification or manual review.
 
   
 - **`data/random_sampled_dataset.jsonl`**  
   The 1000 andomlt sampled cve's from the original_dataset.jsonl were 50% is iot and 50% is non iot.
 
-- **`data/dataset_review_correction.jsonl`**  
+- **`data/corrected_cve_dataset.jsonl`**  
   This file contains the **final version of the dataset** after AI-based classification and manual review. All mislabeled entries were removed or corrected, resulting in **916 CVEs**  evenly split between IoT and non-IoT (50/50), supporting fair and unbiased evaluation of classification models.
 
 ---
@@ -41,9 +41,11 @@ Calls the run_ollama.py funtion and loads the data fromt the dataset file and sa
  - **`scripts/train_fineTuned_classifier.py`**  
 The script to train the traditional/finetuned classifiers. Just comment out the model you want to use and provide the dataset.
  
+ - **`scripts/shap_runner.py`**  
+  Acript use to calculate the individual feature importance by using the shap method
 ---
  - **`results/RQ1/*`**  
-The results of all the LLM's that classified the **3458 CVEs** . It's split up in correctly classified and misclassified.
+The results of all the LLM's that classified the **3478 CVEs** . It's split up in correctly classified and misclassified.
 
  - **`results/RQ2/*`**  
 The results of all the LLM's and traditional classifiers that classified the **916 CVEs** . It's split up in correctly classified and misclassified and for the LLM's you can also see the most important field (description, affected items, product date, tags) in their decision 

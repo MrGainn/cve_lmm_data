@@ -1,424 +1,466 @@
-{"cve_id": "CVE-2020-16142", "true_label": 1}
-{"cve_id": "CVE-2020-25747", "true_label": 1}
-{"cve_id": "CVE-2021-33546", "true_label": 1}
-{"cve_id": "CVE-2020-20746", "true_label": 0}
-{"cve_id": "CVE-2017-0461", "true_label": 1}
-{"cve_id": "CVE-2021-31787", "true_label": 1}
-{"cve_id": "CVE-2022-24860", "true_label": 0}
-{"cve_id": "CVE-2018-19437", "true_label": 0}
-{"cve_id": "CVE-2017-17589", "true_label": 0}
-{"cve_id": "CVE-2016-2049", "true_label": 0}
-{"cve_id": "CVE-2007-2118", "true_label": 0}
-{"cve_id": "CVE-2022-24009", "true_label": 1}
-{"cve_id": "CVE-2023-2392", "true_label": 0}
-{"cve_id": "CVE-2017-17793", "true_label": 0}
-{"cve_id": "CVE-2022-25574", "true_label": 0}
-{"cve_id": "CVE-2015-4400", "true_label": 1}
-{"cve_id": "CVE-2008-1525", "true_label": 0}
-{"cve_id": "CVE-2020-27373", "true_label": 1}
-{"cve_id": "CVE-2022-31462", "true_label": 1}
-{"cve_id": "CVE-2021-30882", "true_label": 1}
-{"cve_id": "CVE-2001-1261", "true_label": 0}
-{"cve_id": "CVE-2020-15802", "true_label": 1}
-{"cve_id": "CVE-2020-4076", "true_label": 0}
-{"cve_id": "CVE-2022-31363", "true_label": 1}
-{"cve_id": "CVE-2021-25849", "true_label": 1}
-{"cve_id": "CVE-2022-44636", "true_label": 1}
-{"cve_id": "CVE-2018-1601", "true_label": 0}
-{"cve_id": "CVE-2009-0367", "true_label": 0}
-{"cve_id": "CVE-2021-2043", "true_label": 0}
-{"cve_id": "CVE-2014-6745", "true_label": 0}
-{"cve_id": "CVE-2017-0526", "true_label": 1}
-{"cve_id": "CVE-2017-16274", "true_label": 1}
-{"cve_id": "CVE-2021-21167", "true_label": 0}
-{"cve_id": "CVE-2008-1990", "true_label": 0}
-{"cve_id": "CVE-2022-33321", "true_label": 1}
-{"cve_id": "CVE-2017-16333", "true_label": 1}
-{"cve_id": "CVE-2022-2948", "true_label": 0}
-{"cve_id": "CVE-2017-10132", "true_label": 0}
-{"cve_id": "CVE-2022-37681", "true_label": 1}
-{"cve_id": "CVE-2017-17137", "true_label": 0}
-{"cve_id": "CVE-2010-2670", "true_label": 0}
-{"cve_id": "CVE-2014-3072", "true_label": 0}
-{"cve_id": "CVE-2023-1188", "true_label": 0}
-{"cve_id": "CVE-2018-9111", "true_label": 1}
-{"cve_id": "CVE-2019-12735", "true_label": 0}
-{"cve_id": "CVE-2008-3001", "true_label": 0}
-{"cve_id": "CVE-2020-14388", "true_label": 0}
-{"cve_id": "CVE-2019-11780", "true_label": 0}
-{"cve_id": "CVE-2012-6548", "true_label": 0}
-{"cve_id": "CVE-2020-11550", "true_label": 1}
-{"cve_id": "CVE-2017-2855", "true_label": 1}
-{"cve_id": "CVE-2011-4408", "true_label": 0}
-{"cve_id": "CVE-2015-5994", "true_label": 1}
-{"cve_id": "CVE-2017-14225", "true_label": 0}
-{"cve_id": "CVE-2018-7933", "true_label": 1}
-{"cve_id": "CVE-2017-18279", "true_label": 1}
-{"cve_id": "CVE-2015-6546", "true_label": 1}
-{"cve_id": "CVE-2021-27803", "true_label": 1}
-{"cve_id": "CVE-2019-17627", "true_label": 1}
-{"cve_id": "CVE-2014-6497", "true_label": 0}
-{"cve_id": "CVE-2017-16273", "true_label": 1}
-{"cve_id": "CVE-2018-9927", "true_label": 0}
-{"cve_id": "CVE-2013-4595", "true_label": 0}
-{"cve_id": "CVE-2017-6161", "true_label": 1}
-{"cve_id": "CVE-2017-14453", "true_label": 1}
-{"cve_id": "CVE-2008-6575", "true_label": 0}
-{"cve_id": "CVE-2011-4644", "true_label": 0}
-{"cve_id": "CVE-2001-1339", "true_label": 1}
-{"cve_id": "CVE-2022-39064", "true_label": 1}
-{"cve_id": "CVE-2017-16254", "true_label": 1}
-{"cve_id": "CVE-2022-32530", "true_label": 0}
-{"cve_id": "CVE-2018-3873", "true_label": 1}
-{"cve_id": "CVE-2017-2236", "true_label": 1}
-{"cve_id": "CVE-2018-16198", "true_label": 1}
-{"cve_id": "CVE-2018-2935", "true_label": 0}
-{"cve_id": "CVE-2017-1000195", "true_label": 0}
-{"cve_id": "CVE-2020-5606", "true_label": 0}
-{"cve_id": "CVE-2009-2005", "true_label": 0}
-{"cve_id": "CVE-2012-4876", "true_label": 1}
-{"cve_id": "CVE-2019-16255", "true_label": 0}
-{"cve_id": "CVE-2006-6480", "true_label": 0}
-{"cve_id": "CVE-2023-24344", "true_label": 1}
-{"cve_id": "CVE-2020-0517", "true_label": 0}
-{"cve_id": "CVE-2018-20443", "true_label": 1}
-{"cve_id": "CVE-2017-16281", "true_label": 1}
-{"cve_id": "CVE-2017-2857", "true_label": 1}
-{"cve_id": "CVE-2022-25711", "true_label": 1}
-{"cve_id": "CVE-2019-17098", "true_label": 1}
-{"cve_id": "CVE-2019-13450", "true_label": 1}
-{"cve_id": "CVE-2023-0397", "true_label": 1}
-{"cve_id": "CVE-2010-4260", "true_label": 0}
-{"cve_id": "CVE-2018-18391", "true_label": 1}
-{"cve_id": "CVE-2022-29729", "true_label": 1}
-{"cve_id": "CVE-2020-5786", "true_label": 0}
-{"cve_id": "CVE-2017-0531", "true_label": 1}
-{"cve_id": "CVE-2013-6421", "true_label": 0}
-{"cve_id": "CVE-2022-47367", "true_label": 1}
-{"cve_id": "CVE-2020-23936", "true_label": 1}
-{"cve_id": "CVE-2017-17892", "true_label": 0}
-{"cve_id": "CVE-2015-0838", "true_label": 0}
-{"cve_id": "CVE-2020-24587", "true_label": 1}
-{"cve_id": "CVE-2021-2115", "true_label": 0}
-{"cve_id": "CVE-2021-20761", "true_label": 0}
-{"cve_id": "CVE-2017-6742", "true_label": 0}
-{"cve_id": "CVE-2020-9048", "true_label": 0}
-{"cve_id": "CVE-2017-2234", "true_label": 1}
-{"cve_id": "CVE-2018-1000046", "true_label": 1}
-{"cve_id": "CVE-2005-4419", "true_label": 0}
-{"cve_id": "CVE-2019-18382", "true_label": 1}
-{"cve_id": "CVE-2017-2805", "true_label": 1}
-{"cve_id": "CVE-2020-12730", "true_label": 1}
-{"cve_id": "CVE-2022-21718", "true_label": 1}
-{"cve_id": "CVE-2019-9977", "true_label": 1}
-{"cve_id": "CVE-2019-2266", "true_label": 1}
-{"cve_id": "CVE-2020-11939", "true_label": 0}
-{"cve_id": "CVE-2021-3036", "true_label": 0}
-{"cve_id": "CVE-2022-0086", "true_label": 0}
-{"cve_id": "CVE-2018-7698", "true_label": 1}
-{"cve_id": "CVE-2022-0468", "true_label": 0}
-{"cve_id": "CVE-2021-33792", "true_label": 0}
-{"cve_id": "CVE-2018-19917", "true_label": 0}
-{"cve_id": "CVE-2022-29049", "true_label": 0}
-{"cve_id": "CVE-2019-10546", "true_label": 1}
-{"cve_id": "CVE-2019-15462", "true_label": 0}
-{"cve_id": "CVE-2020-10276", "true_label": 1}
-{"cve_id": "CVE-2021-27249", "true_label": 1}
-{"cve_id": "CVE-2021-44518", "true_label": 1}
-{"cve_id": "CVE-2013-3689", "true_label": 1}
-{"cve_id": "CVE-2022-21488", "true_label": 0}
-{"cve_id": "CVE-2021-2436", "true_label": 0}
-{"cve_id": "CVE-2003-1046", "true_label": 0}
-{"cve_id": "CVE-2018-13483", "true_label": 0}
-{"cve_id": "CVE-2016-6740", "true_label": 1}
-{"cve_id": "CVE-2017-16327", "true_label": 1}
-{"cve_id": "CVE-2019-0623", "true_label": 0}
-{"cve_id": "CVE-2022-37060", "true_label": 1}
-{"cve_id": "CVE-2019-14620", "true_label": 1}
-{"cve_id": "CVE-2015-1213", "true_label": 0}
-{"cve_id": "CVE-2022-1104", "true_label": 0}
-{"cve_id": "CVE-2012-5091", "true_label": 0}
-{"cve_id": "CVE-2021-0884", "true_label": 0}
-{"cve_id": "CVE-2008-3900", "true_label": 0}
-{"cve_id": "CVE-2020-15434", "true_label": 0}
-{"cve_id": "CVE-2014-8872", "true_label": 1}
-{"cve_id": "CVE-2018-3925", "true_label": 1}
-{"cve_id": "CVE-2018-10910", "true_label": 1}
-{"cve_id": "CVE-2017-16346", "true_label": 1}
-{"cve_id": "CVE-2023-1184", "true_label": 0}
-{"cve_id": "CVE-2013-4178", "true_label": 0}
-{"cve_id": "CVE-2020-35623", "true_label": 0}
-{"cve_id": "CVE-2019-16651", "true_label": 1}
-{"cve_id": "CVE-2020-27302", "true_label": 1}
-{"cve_id": "CVE-2016-0806", "true_label": 1}
-{"cve_id": "CVE-2017-0709", "true_label": 1}
-{"cve_id": "CVE-2015-9354", "true_label": 0}
-{"cve_id": "CVE-2020-1223", "true_label": 0}
-{"cve_id": "CVE-2022-39912", "true_label": 0}
-{"cve_id": "CVE-2006-2862", "true_label": 0}
-{"cve_id": "CVE-2021-2138", "true_label": 0}
-{"cve_id": "CVE-2017-10718", "true_label": 1}
-{"cve_id": "CVE-2019-2572", "true_label": 0}
-{"cve_id": "CVE-2019-11602", "true_label": 1}
-{"cve_id": "CVE-2019-7745", "true_label": 1}
-{"cve_id": "CVE-2022-20023", "true_label": 1}
-{"cve_id": "CVE-2018-3911", "true_label": 1}
-{"cve_id": "CVE-2023-25578", "true_label": 0}
-{"cve_id": "CVE-2002-1498", "true_label": 0}
-{"cve_id": "CVE-2020-1289", "true_label": 0}
-{"cve_id": "CVE-2022-36293", "true_label": 1}
-{"cve_id": "CVE-2022-27016", "true_label": 0}
-{"cve_id": "CVE-2020-27608", "true_label": 0}
-{"cve_id": "CVE-2020-11915", "true_label": 1}
-{"cve_id": "CVE-2018-3875", "true_label": 1}
-{"cve_id": "CVE-2022-22922", "true_label": 1}
-{"cve_id": "CVE-2019-15234", "true_label": 0}
-{"cve_id": "CVE-2012-2657", "true_label": 0}
-{"cve_id": "CVE-2021-30165", "true_label": 1}
-{"cve_id": "CVE-2022-27178", "true_label": 1}
-{"cve_id": "CVE-2022-41889", "true_label": 0}
-{"cve_id": "CVE-2013-4976", "true_label": 1}
-{"cve_id": "CVE-2018-3877", "true_label": 1}
-{"cve_id": "CVE-2017-16304", "true_label": 1}
-{"cve_id": "CVE-2022-44561", "true_label": 0}
-{"cve_id": "CVE-2010-2818", "true_label": 0}
-{"cve_id": "CVE-2021-21159", "true_label": 0}
-{"cve_id": "CVE-2022-0204", "true_label": 0}
-{"cve_id": "CVE-2016-6435", "true_label": 0}
-{"cve_id": "CVE-2013-0885", "true_label": 0}
-{"cve_id": "CVE-2019-12716", "true_label": 0}
-{"cve_id": "CVE-2014-9686", "true_label": 0}
-{"cve_id": "CVE-2007-1973", "true_label": 0}
-{"cve_id": "CVE-2017-16323", "true_label": 1}
-{"cve_id": "CVE-2012-1621", "true_label": 0}
-{"cve_id": "CVE-2017-7852", "true_label": 1}
-{"cve_id": "CVE-2021-32680", "true_label": 0}
-{"cve_id": "CVE-2018-1000626", "true_label": 1}
-{"cve_id": "CVE-2005-2547", "true_label": 1}
-{"cve_id": "CVE-2016-10480", "true_label": 0}
-{"cve_id": "CVE-2016-7445", "true_label": 0}
-{"cve_id": "CVE-2004-0291", "true_label": 0}
-{"cve_id": "CVE-2022-38085", "true_label": 0}
-{"cve_id": "CVE-2019-1829", "true_label": 0}
-{"cve_id": "CVE-2022-3840", "true_label": 0}
-{"cve_id": "CVE-2017-9522", "true_label": 1}
-{"cve_id": "CVE-2019-11892", "true_label": 1}
-{"cve_id": "CVE-2021-46070", "true_label": 1}
-{"cve_id": "CVE-2020-26559", "true_label": 1}
-{"cve_id": "CVE-2008-5802", "true_label": 0}
-{"cve_id": "CVE-2021-38941", "true_label": 0}
-{"cve_id": "CVE-2018-13589", "true_label": 0}
-{"cve_id": "CVE-2019-7714", "true_label": 0}
-{"cve_id": "CVE-2022-36048", "true_label": 0}
-{"cve_id": "CVE-2022-22947", "true_label": 1}
-{"cve_id": "CVE-2021-34813", "true_label": 0}
-{"cve_id": "CVE-2006-5777", "true_label": 0}
-{"cve_id": "CVE-2016-5296", "true_label": 0}
-{"cve_id": "CVE-2008-3053", "true_label": 0}
-{"cve_id": "CVE-2021-23852", "true_label": 1}
-{"cve_id": "CVE-2015-7393", "true_label": 1}
-{"cve_id": "CVE-2017-10038", "true_label": 0}
-{"cve_id": "CVE-2020-16630", "true_label": 1}
-{"cve_id": "CVE-2019-18241", "true_label": 1}
-{"cve_id": "CVE-2017-16265", "true_label": 1}
-{"cve_id": "CVE-2023-25551", "true_label": 0}
-{"cve_id": "CVE-2018-1002000", "true_label": 0}
-{"cve_id": "CVE-2018-20439", "true_label": 1}
-{"cve_id": "CVE-2016-7454", "true_label": 1}
-{"cve_id": "CVE-2017-16859", "true_label": 0}
-{"cve_id": "CVE-2020-7458", "true_label": 0}
-{"cve_id": "CVE-2022-0397", "true_label": 0}
-{"cve_id": "CVE-2014-8538", "true_label": 0}
-{"cve_id": "CVE-2020-6217", "true_label": 0}
-{"cve_id": "CVE-2010-4877", "true_label": 0}
-{"cve_id": "CVE-2020-7161", "true_label": 0}
-{"cve_id": "CVE-2000-0353", "true_label": 0}
-{"cve_id": "CVE-2017-16255", "true_label": 1}
-{"cve_id": "CVE-2020-1836", "true_label": 0}
-{"cve_id": "CVE-2009-4598", "true_label": 0}
-{"cve_id": "CVE-2017-16277", "true_label": 1}
-{"cve_id": "CVE-2020-12509", "true_label": 1}
-{"cve_id": "CVE-2012-1302", "true_label": 0}
-{"cve_id": "CVE-2017-18348", "true_label": 0}
-{"cve_id": "CVE-2020-3642", "true_label": 1}
-{"cve_id": "CVE-2020-5589", "true_label": 1}
-{"cve_id": "CVE-2019-14458", "true_label": 1}
-{"cve_id": "CVE-2022-34779", "true_label": 0}
-{"cve_id": "CVE-2018-5447", "true_label": 0}
-{"cve_id": "CVE-2022-25809", "true_label": 1}
-{"cve_id": "CVE-2006-0715", "true_label": 0}
-{"cve_id": "CVE-2017-0437", "true_label": 1}
-{"cve_id": "CVE-2022-32927", "true_label": 1}
-{"cve_id": "CVE-2005-3435", "true_label": 0}
-{"cve_id": "CVE-2017-0453", "true_label": 1}
-{"cve_id": "CVE-2018-1000165", "true_label": 0}
-{"cve_id": "CVE-2017-13077", "true_label": 1}
-{"cve_id": "CVE-2018-2598", "true_label": 0}
-{"cve_id": "CVE-2022-39102", "true_label": 0}
-{"cve_id": "CVE-2021-23849", "true_label": 1}
-{"cve_id": "CVE-2020-27263", "true_label": 1}
-{"cve_id": "CVE-2017-10845", "true_label": 1}
-{"cve_id": "CVE-2008-4080", "true_label": 0}
-{"cve_id": "CVE-2019-3915", "true_label": 0}
-{"cve_id": "CVE-2018-10694", "true_label": 1}
-{"cve_id": "CVE-2017-0465", "true_label": 0}
-{"cve_id": "CVE-2018-14010", "true_label": 1}
-{"cve_id": "CVE-2018-12640", "true_label": 1}
-{"cve_id": "CVE-2022-20723", "true_label": 0}
-{"cve_id": "CVE-2019-2284", "true_label": 1}
-{"cve_id": "CVE-2008-4503", "true_label": 1}
-{"cve_id": "CVE-2022-33987", "true_label": 0}
-{"cve_id": "CVE-2017-2661", "true_label": 0}
-{"cve_id": "CVE-2020-29312", "true_label": 0}
-{"cve_id": "CVE-2021-25767", "true_label": 0}
-{"cve_id": "CVE-2006-0723", "true_label": 0}
-{"cve_id": "CVE-2019-18610", "true_label": 0}
-{"cve_id": "CVE-2014-0233", "true_label": 0}
-{"cve_id": "CVE-2022-32301", "true_label": 0}
-{"cve_id": "CVE-2020-8423", "true_label": 1}
-{"cve_id": "CVE-2021-30004", "true_label": 0}
-{"cve_id": "CVE-2006-2401", "true_label": 0}
-{"cve_id": "CVE-2019-7570", "true_label": 0}
-{"cve_id": "CVE-2020-7879", "true_label": 1}
-{"cve_id": "CVE-2017-16316", "true_label": 1}
-{"cve_id": "CVE-2019-10494", "true_label": 1}
-{"cve_id": "CVE-2008-5066", "true_label": 0}
-{"cve_id": "CVE-2021-2215", "true_label": 0}
-{"cve_id": "CVE-2001-1572", "true_label": 0}
-{"cve_id": "CVE-2020-1716", "true_label": 0}
-{"cve_id": "CVE-2017-18451", "true_label": 0}
-{"cve_id": "CVE-2016-6757", "true_label": 1}
-{"cve_id": "CVE-2020-8118", "true_label": 0}
-{"cve_id": "CVE-2019-0063", "true_label": 1}
-{"cve_id": "CVE-2021-29979", "true_label": 1}
-{"cve_id": "CVE-2014-2361", "true_label": 1}
-{"cve_id": "CVE-2021-22671", "true_label": 1}
-{"cve_id": "CVE-2020-12078", "true_label": 0}
-{"cve_id": "CVE-2020-8792", "true_label": 1}
-{"cve_id": "CVE-2004-1127", "true_label": 1}
-{"cve_id": "CVE-2021-25456", "true_label": 0}
-{"cve_id": "CVE-2018-18396", "true_label": 1}
-{"cve_id": "CVE-2014-5997", "true_label": 0}
-{"cve_id": "CVE-2022-2182", "true_label": 0}
-{"cve_id": "CVE-2017-7065", "true_label": 1}
-{"cve_id": "CVE-2007-4927", "true_label": 1}
-{"cve_id": "CVE-2013-3313", "true_label": 1}
-{"cve_id": "CVE-2013-6042", "true_label": 0}
-{"cve_id": "CVE-2019-10503", "true_label": 1}
-{"cve_id": "CVE-2016-8704", "true_label": 0}
-{"cve_id": "CVE-2017-0442", "true_label": 1}
-{"cve_id": "CVE-2007-2846", "true_label": 0}
-{"cve_id": "CVE-2021-33547", "true_label": 1}
-{"cve_id": "CVE-2007-1296", "true_label": 0}
-{"cve_id": "CVE-2020-3645", "true_label": 1}
-{"cve_id": "CVE-2015-7934", "true_label": 0}
-{"cve_id": "CVE-2022-37193", "true_label": 1}
-{"cve_id": "CVE-2022-33235", "true_label": 1}
-{"cve_id": "CVE-2022-24008", "true_label": 1}
-{"cve_id": "CVE-2017-5950", "true_label": 0}
-{"cve_id": "CVE-2017-15885", "true_label": 1}
-{"cve_id": "CVE-2016-8102", "true_label": 1}
-{"cve_id": "CVE-2022-46415", "true_label": 1}
-{"cve_id": "CVE-2020-3312", "true_label": 0}
-{"cve_id": "CVE-2016-5764", "true_label": 0}
-{"cve_id": "CVE-2000-1071", "true_label": 0}
-{"cve_id": "CVE-2017-2875", "true_label": 1}
-{"cve_id": "CVE-2020-15827", "true_label": 0}
-{"cve_id": "CVE-2021-31785", "true_label": 1}
-{"cve_id": "CVE-2017-0260", "true_label": 0}
-{"cve_id": "CVE-2022-26462", "true_label": 0}
-{"cve_id": "CVE-2021-43998", "true_label": 0}
-{"cve_id": "CVE-2018-17240", "true_label": 1}
-{"cve_id": "CVE-2019-19192", "true_label": 1}
-{"cve_id": "CVE-2017-8228", "true_label": 1}
-{"cve_id": "CVE-2022-21560", "true_label": 0}
-{"cve_id": "CVE-2022-29082", "true_label": 0}
-{"cve_id": "CVE-2002-1152", "true_label": 0}
-{"cve_id": "CVE-2019-8541", "true_label": 1}
-{"cve_id": "CVE-2021-27791", "true_label": 0}
-{"cve_id": "CVE-2019-4075", "true_label": 0}
-{"cve_id": "CVE-2019-19278", "true_label": 0}
-{"cve_id": "CVE-2013-5819", "true_label": 0}
-{"cve_id": "CVE-2018-18004", "true_label": 1}
-{"cve_id": "CVE-2020-9786", "true_label": 0}
-{"cve_id": "CVE-2023-2250", "true_label": 0}
-{"cve_id": "CVE-2020-25858", "true_label": 1}
-{"cve_id": "CVE-2017-16055", "true_label": 0}
-{"cve_id": "CVE-2022-23169", "true_label": 0}
-{"cve_id": "CVE-2018-13190", "true_label": 0}
-{"cve_id": "CVE-2020-6812", "true_label": 1}
-{"cve_id": "CVE-2020-26140", "true_label": 1}
-{"cve_id": "CVE-2022-36768", "true_label": 0}
-{"cve_id": "CVE-2004-1650", "true_label": 1}
-{"cve_id": "CVE-2018-18874", "true_label": 0}
-{"cve_id": "CVE-2017-11762", "true_label": 0}
-{"cve_id": "CVE-2020-7063", "true_label": 0}
-{"cve_id": "CVE-2019-17210", "true_label": 1}
-{"cve_id": "CVE-2018-17169", "true_label": 0}
-{"cve_id": "CVE-2022-20045", "true_label": 1}
-{"cve_id": "CVE-2016-4137", "true_label": 0}
-{"cve_id": "CVE-2022-23136", "true_label": 1}
-{"cve_id": "CVE-2011-4283", "true_label": 0}
-{"cve_id": "CVE-2020-13311", "true_label": 0}
-{"cve_id": "CVE-2020-11218", "true_label": 1}
-{"cve_id": "CVE-2011-1324", "true_label": 0}
-{"cve_id": "CVE-2021-41788", "true_label": 1}
-{"cve_id": "CVE-2018-5030", "true_label": 0}
-{"cve_id": "CVE-2017-9893", "true_label": 0}
-{"cve_id": "CVE-2011-1577", "true_label": 0}
-{"cve_id": "CVE-2013-6852", "true_label": 0}
-{"cve_id": "CVE-2021-22932", "true_label": 0}
-{"cve_id": "CVE-2014-3439", "true_label": 0}
-{"cve_id": "CVE-2021-46072", "true_label": 1}
-{"cve_id": "CVE-2021-36764", "true_label": 1}
-{"cve_id": "CVE-2020-9475", "true_label": 1}
-{"cve_id": "CVE-2017-11435", "true_label": 1}
-{"cve_id": "CVE-2017-7131", "true_label": 1}
-{"cve_id": "CVE-2017-17435", "true_label": 1}
-{"cve_id": "CVE-2020-27554", "true_label": 1}
-{"cve_id": "CVE-2022-20827", "true_label": 0}
-{"cve_id": "CVE-2020-12321", "true_label": 1}
-{"cve_id": "CVE-2023-26037", "true_label": 1}
-{"cve_id": "CVE-2014-8387", "true_label": 1}
-{"cve_id": "CVE-2020-6121", "true_label": 0}
-{"cve_id": "CVE-2002-1431", "true_label": 1}
-{"cve_id": "CVE-2020-3692", "true_label": 1}
-{"cve_id": "CVE-2023-24022", "true_label": 1}
-{"cve_id": "CVE-2021-0166", "true_label": 1}
-{"cve_id": "CVE-2018-1000629", "true_label": 1}
-{"cve_id": "CVE-2017-3085", "true_label": 0}
-{"cve_id": "CVE-2019-6609", "true_label": 1}
-{"cve_id": "CVE-2023-27178", "true_label": 0}
-{"cve_id": "CVE-2016-6147", "true_label": 0}
-{"cve_id": "CVE-2017-8867", "true_label": 1}
-{"cve_id": "CVE-2022-31803", "true_label": 1}
-{"cve_id": "CVE-2020-27272", "true_label": 1}
-{"cve_id": "CVE-2018-2992", "true_label": 0}
-{"cve_id": "CVE-2004-1413", "true_label": 0}
-{"cve_id": "CVE-2017-16579", "true_label": 0}
-{"cve_id": "CVE-2017-11579", "true_label": 1}
-{"cve_id": "CVE-2021-20487", "true_label": 0}
-{"cve_id": "CVE-2010-4233", "true_label": 1}
-{"cve_id": "CVE-2011-1003", "true_label": 0}
-{"cve_id": "CVE-2006-3044", "true_label": 0}
-{"cve_id": "CVE-2020-15945", "true_label": 0}
-{"cve_id": "CVE-2020-3390", "true_label": 0}
-{"cve_id": "CVE-2020-29001", "true_label": 1}
-{"cve_id": "CVE-2010-5325", "true_label": 0}
-{"cve_id": "CVE-2017-10719", "true_label": 1}
-{"cve_id": "CVE-2016-2366", "true_label": 0}
-{"cve_id": "CVE-2018-7319", "true_label": 0}
-{"cve_id": "CVE-2016-8519", "true_label": 0}
-{"cve_id": "CVE-2016-8415", "true_label": 1}
-{"cve_id": "CVE-2021-44158", "true_label": 1}
-{"cve_id": "CVE-2014-8134", "true_label": 0}
-{"cve_id": "CVE-2016-3695", "true_label": 0}
-{"cve_id": "CVE-2021-35530", "true_label": 1}
-{"cve_id": "CVE-2022-2759", "true_label": 1}
-{"cve_id": "CVE-2019-19193", "true_label": 1}
-{"cve_id": "CVE-2020-29438", "true_label": 1}
-{"cve_id": "CVE-2019-7580", "true_label": 0}
-{"cve_id": "CVE-2014-1982", "true_label": 0}
-{"cve_id": "CVE-2021-0165", "true_label": 1}
-{"cve_id": "CVE-2014-2493", "true_label": 0}
-{"cve_id": "CVE-2020-15582", "true_label": 1}
+{"cve_id": "CVE-2014-0048", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-10230", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-27660", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2012-1846", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-7698", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-0801", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-5953", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-6151", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-0273", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-21488", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2015-6623", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-1999-1513", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2004-2155", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-5970", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-0553", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-34909", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-2020", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-1887", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-43042", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-0449", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-5494", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2012-3588", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-37680", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-3686", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2006-4103", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-3617", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-5417", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-2759", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-5991", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-3933", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-9816", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-12797", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-16265", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-2310", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2009-4723", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-30256", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-17391", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2012-5901", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-26257", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-3908", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-41873", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2010-4172", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-15945", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2013-1547", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2011-3497", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-25837", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-0063", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2007-3165", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-25063", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-1002000", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-1379", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2010-5082", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-30621", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-2560", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-42059", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-47100", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2006-3178", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-11578", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-16012", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2013-3659", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-3767", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-0777", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2009-0367", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-10480", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-5447", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2002-0504", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2009-4918", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-10292", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-0568", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-18789", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-29287", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-11063", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2000-0817", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-0865", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2015-3369", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-7637", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16324", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-46067", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2015-9444", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2015-3331", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-23936", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-8073", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2001-0760", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-22529", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-24948", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-15094", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-22660", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2011-2826", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-25359", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-2872", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2008-3083", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-37517", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-10614", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-0623", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-5634", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2006-0523", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-15913", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-13585", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-25594", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-10742", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-24199", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-0176", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2005-3558", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-30769", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2009-1559", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2005-1456", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-11602", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2014-3385", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-8860", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2011-4283", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16340", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-7826", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-1326", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-0183", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-43517", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-19506", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-13953", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-33710", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2005-0001", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-30904", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2002-1815", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-5351", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-3878", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-31364", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-33548", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-11446", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2012-5516", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2008-1269", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-47052", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-0569", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-33322", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-15944", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2001-1337", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-40759", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16055", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-20612", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-16156", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-27248", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-8510", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-21846", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-1999-1334", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-17520", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2006-6979", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2013-7204", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-9157", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-10284", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2009-5038", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16287", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-2488", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-11654", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-5000", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-41506", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-14820", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-5453", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-13450", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2014-4892", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-4253", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2012-0623", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-19193", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2009-4732", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-24689", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-1230", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-2487", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2014-2291", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-0629", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-11930", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-9473", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-40836", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-3425", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-15531", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-8162", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-20746", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-7116", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-4137", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2008-5250", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-39064", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-6549", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2012-4707", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-0237", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-10270", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2005-1028", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2005-3008", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-6739", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2015-9126", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-12919", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-0553", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-16274", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-4977", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-17648", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16296", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-15641", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-0675", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-1921", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-11898", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-5214", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2009-2355", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-44528", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16345", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-1109", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2006-1510", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-12322", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2023-23855", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2014-6032", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-26614", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-7562", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2005-3212", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-11072", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-3000", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-7440", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-35532", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-23136", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-23961", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2010-2208", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-5173", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2008-1773", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2013-3314", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-14444", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-0863", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2006-6305", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-16986", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-5786", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2010-1232", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-18456", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-11217", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-5058", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2008-3422", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2023-26037", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-7450", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-29729", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-5736", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-15019", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2005-3359", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-38547", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2006-2855", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-6426", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-5383", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-41220", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2023-24348", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-17169", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2011-5181", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-11444", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16341", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2014-7575", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-0706", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2006-2163", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-16201", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-20827", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2012-6548", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-46071", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-9927", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-11891", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-5442", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-12140", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-0153", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2013-0885", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-17435", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2012-0571", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-2655", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-3507", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-1729", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-10942", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-7065", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2008-0076", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-31463", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2004-2426", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-6167", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16317", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-14953", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-10760", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-0258", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-10267", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-10983", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-48198", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-7319", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16286", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2009-2671", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16297", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-3962", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2010-4877", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2012-0500", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2008-1014", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-4433", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-22105", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-34109", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-11653", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-25424", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-24512", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-5675", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-0166", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2008-4503", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-39853", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-2855", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2011-2996", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-16197", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2011-2619", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-18348", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-7596", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-25845", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-46416", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-39102", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-1505", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-15479", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-11155", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-1444", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2015-8022", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-15698", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-0201", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-20532", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2014-6653", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-10688", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-0791", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2004-1541", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-18638", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-9506", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2008-0542", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-6539", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-16275", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-4001", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-32913", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-6303", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-1092", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-13190", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-6359", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-20022", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-10372", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-5606", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-15835", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-22675", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2014-9234", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-3913", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-0438", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-16254", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-12692", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-17378", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-6147", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-15806", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-8477", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-6704", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-29438", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-7072", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-5383", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-4929", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2015-7102", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2011-4640", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-13077", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-6479", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-27542", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-1148", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-37806", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-32666", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-18843", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-27266", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-24610", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2015-2553", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2006-0723", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-35623", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-9287", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-5451", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-0178", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-13649", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2008-4726", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-18382", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-12811", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-34606", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-17020", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2013-1594", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-7134", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-10243", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2015-3359", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-7697", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-0788", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2015-8923", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2014-9909", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-18323", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2015-5681", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-1601", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2005-1343", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2013-6480", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-41229", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-20781", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2023-0349", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-3875", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2008-0530", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2003-1231", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-11061", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-0610", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2002-2021", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2014-4023", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-6413", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-28155", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2023-0396", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-32469", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2015-8681", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-16280", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-1000629", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-2875", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-2948", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-0453", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-9155", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-10503", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-0167", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-4303", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2013-6852", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-24655", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-31786", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2010-4964", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2007-4156", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-12270", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2014-1820", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2008-5508", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2017-0531", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-18328", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2010-4530", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-22091", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-0571", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-1223", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-5403", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-27630", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2015-4205", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-43019", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-8519", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2008-0391", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2008-3001", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2008-1630", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2015-2106", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-5213", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2009-4782", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2004-1519", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-29241", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-0161", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-20766", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-27478", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-6781", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2022-24022", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-3905", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2019-13582", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2021-1205", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-3199", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-3774", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2015-6484", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-3925", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2012-4497", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-6633", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2021-30167", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-0442", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-0575", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2016-3852", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2020-25747", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2017-10045", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-31766", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2014-6500", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-6691", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2018-3911", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2010-1073", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2018-13483", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2013-4595", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-6167", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2022-24011", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2010-5045", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2007-1296", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2016-3686", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2011-2245", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2020-13467", "true_label": 1, "predicted_label": 0}
+{"cve_id": "CVE-2012-4250", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2004-1584", "true_label": 0, "predicted_label": 1}
+{"cve_id": "CVE-2019-14902", "true_label": 0, "predicted_label": 1}
