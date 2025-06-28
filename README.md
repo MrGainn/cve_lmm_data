@@ -48,13 +48,16 @@ The script to train the traditional/finetuned classifiers. Just comment out the 
   Acript use to calculate the individual feature importance by using the shap method
 ---
  - **`results/RQ1/*`**  
-The results of all the LLM's that classified the **1000 CVEs** before the manual review . It's split up in correctly classified and misclassified.
+The results of all the LLM's that classified the **1000 CVEs** before the manual review. It's split up in correctly classified and misclassified.
 
  - **`results/RQ2/*`**  
 The results of all the LLM's and traditional classifiers that classified the **916 CVEs** . It's split up in correctly classified and misclassified and for the LLM's you can also see the most important field (description, affected items, product date, tags) in their decision 
 
  - **`results/RQ3/*`**  
 The results of all the LLM's that classified the **812 CVEs** (all cves that had the decription and affected_items both present). Again, It's split up in correctly classified and misclassified. 
+
+ - **`extra/extra/LLM_All_cves/*`**  
+The results of all the LLM's that classified on all the **3,478 CVEs** . We evvneutally didnt use this, but maybe still usefull.
 ## Summary
 
 - AI models were used to identify potentially misclassified CVEs.
