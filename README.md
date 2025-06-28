@@ -28,6 +28,9 @@ This repository contains data files and results related to the classification of
 - **`data/corrected_cve_dataset.jsonl`**  
   This file contains the **final version of the dataset** after AI-based classification and manual review. All mislabeled entries were removed or corrected, resulting in **916 CVEs**  evenly split between IoT and non-IoT (50/50), supporting fair and unbiased evaluation of classification models.
 
+- **`data/classifier_training_data.jsonl`**  
+ The 2478 cves were the fine-tuned classifers were trained on. These are the cve's  that were not slecetd for the maual review process.
+
 ---
 - **`scripts/get_random_samples.py`**  
   The way we randomly sampeld the 1000 cve's with a 50/50 split of iot and non iot
@@ -45,7 +48,7 @@ The script to train the traditional/finetuned classifiers. Just comment out the 
   Acript use to calculate the individual feature importance by using the shap method
 ---
  - **`results/RQ1/*`**  
-The results of all the LLM's that classified the **3478 CVEs** . It's split up in correctly classified and misclassified.
+The results of all the LLM's that classified the **1000 CVEs** before the manual review . It's split up in correctly classified and misclassified.
 
  - **`results/RQ2/*`**  
 The results of all the LLM's and traditional classifiers that classified the **916 CVEs** . It's split up in correctly classified and misclassified and for the LLM's you can also see the most important field (description, affected items, product date, tags) in their decision 
